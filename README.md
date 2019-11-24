@@ -34,7 +34,6 @@ Before starting working on the *Project 2: Dog Breed Classifier*, I spent a week
 
 [Notebook](./Project4_GenerateFace/dlnd_face_generation.ipynb)
 
-More details: TO BE ADDED
 
 ### Project 5: Deploying a Sentiment Analysis Model
 *Skills: Amazon SageMaker*
@@ -42,8 +41,6 @@ More details: TO BE ADDED
 [Notebook](./Project5_DeployingSentimentAnalysisModel/SageMaker_Project.ipynb)
 
 <hr / >
-More details: TO BE ADDED
-
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
